@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Passionate software developer with a strong background in leadership, statistical analysis, and problem solving. Skilled in creating RESTful APIs, streamlining workflows, and incorporating AI/LLM solutions. Demonstrates leadership abilities through mentoring roles and logistics experience. Currently mentoring Air Associates for Amazon, while honing technical skills at Tech Elevator working on dynamic e-commerce platforms and AI-driven side projects designed to deliver scalable business solutions.
 <!--
 **alehayeb/alehayeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
